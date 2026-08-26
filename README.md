@@ -12,4 +12,4 @@ CPG commercial strategist (ex-General Mills, MIT Sloan MBA) who builds AI agents
 
 - **Manufacturing line delivery redesign** (MIT Sloan Operations Lab) — diagnosed poor material-cart utilization on an automotive OEM's assembly line using delivery-cycle data, then proposed shifting from driver-based small-part delivery to scheduled cart swaps fed by a kitting cell. Projected to cut delivery headcount by roughly 75% on the line, with a payback period under a year. Client, data, and full deliverable are confidential to the sponsor engagement.
 
-Ten years leading commercial strategy at General Mills, now spending the MBA year building the tools I wish existed.
+Ten years leading commercial strategy at General Mills, MIT Sloan MBA in 2026 — now job hunting, and building the tools I wish existed along the way.
