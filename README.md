@@ -8,4 +8,8 @@ CPG commercial strategist (ex-General Mills, MIT Sloan MBA) who builds AI agents
 - **[CEO Standup](https://github.com/rahulbandekar-hub/ceo-standup)** — a weekly automated strategy-practice exercise: Claude researches real CPG/retail industry news and role-plays a full leadership team's take on it. Cut from ~$1–3/run to ~$0.10–0.15/run without losing quality.
 - **[Ghana Pension Portfolio AI](https://github.com/rahulbandekar-hub/ghana-pension-portfolio-ai)** — MIT Sloan team capstone: a deep-learning portfolio optimizer for Ghana pension funds, combining LLM-based news sentiment (FinBERT) with a Temporal Fusion Transformer, constrained to real pension-regulator allocation limits and backtested against three benchmark models.
 
+**Other work (no public repo — client-confidential):**
+
+- **Manufacturing line delivery redesign** (MIT Sloan Operations Lab) — diagnosed poor material-cart utilization on an automotive OEM's assembly line using delivery-cycle data, then proposed shifting from driver-based small-part delivery to scheduled cart swaps fed by a kitting cell. Projected to cut delivery headcount by roughly 75% on the line, with a payback period under a year. Client, data, and full deliverable are confidential to the sponsor engagement.
+
 Ten years leading commercial strategy at General Mills, now spending the MBA year building the tools I wish existed.
